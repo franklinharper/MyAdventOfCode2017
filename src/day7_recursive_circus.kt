@@ -1,4 +1,4 @@
-package day8
+package day7_recursive_circus
 
 data class Program(val name: String, val weight: Int, val children: ArrayList<Program>, var weightSum: Int)
 

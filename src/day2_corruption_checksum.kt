@@ -1,3 +1,5 @@
+package day2_corruption_checksum
+
 fun main(args: Array<String>) {
 
 //    val input = """

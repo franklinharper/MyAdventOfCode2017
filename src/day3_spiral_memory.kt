@@ -1,3 +1,5 @@
+package day3_spiral_memory
+
 fun main(args: Array<String>) {
 
     val input = """

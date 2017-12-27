@@ -1,3 +1,5 @@
+package day5_a_maze_of_twisty_trampolines_all_alike
+
 fun main(args: Array<String>) {
 
     val input = """
@@ -1109,5 +1111,5 @@ fun main(args: Array<String>) {
             steps++
         }
     }
-    println("steps: $steps")
+    println("stepsToReach: $steps")
 }

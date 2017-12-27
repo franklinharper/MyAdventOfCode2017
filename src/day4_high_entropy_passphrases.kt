@@ -1,4 +1,4 @@
-class day4 {
+package day4_high_entropy_passphrases
 
 fun main(args: Array<String>) {
 
@@ -15,7 +15,6 @@ fun main(args: Array<String>) {
         if (isValidPassPhrase(passPhrase)) validPassPhrases++
     }
     println("validPassPhrases: $validPassPhrases")
-
 }
 
 fun isValidPassPhrase(phrase: String): Boolean {
@@ -32,6 +31,4 @@ fun isValidPassPhrase(phrase: String): Boolean {
         }
     }
     return true
-}
-
 }

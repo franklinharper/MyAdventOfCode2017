@@ -1,3 +1,5 @@
+package day8_i_heard_you_like_registers
+
 fun main(args: Array<String>) {
 
     val input = """

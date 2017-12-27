@@ -1,3 +1,5 @@
+package day6_memory_reallocation
+
 fun main(args: Array<String>) {
 
 //    val input = "0 2 7 0"
